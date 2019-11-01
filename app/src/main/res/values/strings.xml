@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Astro Media Lab</string>
+    <string name="home">http://sanhak.itforone.co.kr</string>
+    <string name="link">http://sanhak.itforone.co.kr/bbs/video_view.php?idx=</string>
+    <string name="fullslide">http://sanhak.itforone.co.kr/bbs/video_pop.php?idx=</string>
+
+</resources>
